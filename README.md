@@ -65,7 +65,7 @@ The code above should print an ascending staircase of 4 steps and it's mirror de
 
 ## Skills You May Need
 
-### Printint Without Newlines
+### Printing Without Newlines
 
 In Python, it's important to notice that when use the print() method, the computer automatically adds a newline character (a press of the enter key) after the string you tell it to print.
 
