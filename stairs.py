@@ -1,1 +1,1 @@
-# Code your methods here!
+# Code your functions here!
