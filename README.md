@@ -12,7 +12,7 @@ One wrong move on these steps, and your momentum is gone, and with it, any chanc
 
 ## The Goal
 
-We're going to write three methods: one to build downward stairs, one to build upward stairs, and one to build pyramid stairs (they go up and then back down).
+We're going to write three functions: one to build downward stairs, one to build upward stairs, and one to build pyramid stairs (they go up and then back down).
 
 Here's what your code should ultimately be able to do:
 
@@ -67,9 +67,9 @@ The code above should print an ascending staircase of 4 steps and it's mirror de
 
 ### Printing Without Newlines
 
-In Python, it's important to notice that when use the print() method, the computer automatically adds a newline character (a press of the enter key) after the string you tell it to print.
+In Python, it's important to notice that when use the print() function, the computer automatically adds a newline character (a press of the enter key) after the string you tell it to print.
 
-Sometimes, though, you may want to use the print() method multiple times and have all the text show up on the same line. You can do that by specifying a second parameter in the print() method called end and setting it to an empty string.
+Sometimes, though, you may want to use the print() function multiple times and have all the text show up on the same line. You can do that by specifying a second parameter in the print() function called end and setting it to an empty string.
 
 Here are some examples:
 
