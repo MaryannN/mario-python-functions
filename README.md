@@ -83,7 +83,7 @@ print("This is another print statement.", end = "")
 
 The code above will print to the console like this:
 
-```bash
+```
 Welcome user!
 This is a standard print statement.
 This is a print statement without a newline.This is another print statement.
