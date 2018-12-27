@@ -1,6 +1,6 @@
 # Super Mario Stairs
 
-Super Mario Bros. (1985) is arguably the most iconic videogame of all time.
+Super Mario Bros. (1985) is among the most iconic videogames of all time.
 
 Even though the game has 32 levels, many speedrunners can beat the entire thing in under five minutes.
 
