@@ -1,5 +1,7 @@
 # Super Mario Stairs
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/mario-python-functions)](https://repl.it/github/upperlinecode/mario-python-functions)
+
 Super Mario Bros. (1985) is among the most iconic videogames of all time.
 
 Even though the game has 32 levels, many speedrunners can beat the entire thing in under five minutes.
