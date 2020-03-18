@@ -8,7 +8,7 @@ Even though the game has 32 levels, many speedrunners can beat the entire thing 
 
 However, even the most accomplished speedrunners can have their runs foiled by a run in with the dreaded stairs:
 
-![SMB1 Stairs](smbstairs.png)
+![SMB1 Stairs](https://raw.githubusercontent.com/upperlinecode/mario-python-functions/master/smbstairs.png)
 
 One wrong move on these steps, and your momentum is gone, and with it, any chance of a world-record time.
 
